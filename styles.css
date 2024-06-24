@@ -325,6 +325,9 @@ footer a:active {
     nav ul li a {
         font-size: calc(var(--font-size-link) * 2.8);
     }
+    .tooltip:hover .tooltiptext {
+        visibility: hidden;
+    }
 }
 
 @media (min-width: 76.9rem) {
