@@ -161,8 +161,13 @@ main {
 }
 
 .tooltiptext .monti {
-    margin-left: 2.2rem;
-    width: 75%;
+    width: 85%;
+    margin-left: 4.5rem;
+}
+.tooltip button {
+    padding: .2rem 1rem;
+    background-color: var(--red);
+    color: var(--white);
 }
 
 .tooltip button {
