@@ -1,0 +1,11 @@
+Grau: #ffffff, #ffffff9f, #b3b0b0, #9b9b9b8f;
+Kastanienbraun: #f52f2f, #aa0e0e, #8a0f0f, #660000
+Blau: #2e21e7
+Schriftarten
+Die verwendeten Schriftstärken sind 400, 500 und 600.
+
+Haupt-Schriftart: IBM Plex Serif
+h1 Schriftart: Noto Serif
+h2 Schriftart: Bitter
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=IBM+Plex+Serif:ital,wght@1,400;1,500;1,600&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap')
